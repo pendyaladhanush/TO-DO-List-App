@@ -37,3 +37,5 @@ Implementing a deadline reminder system.
 Creating a graphical user interface (GUI) with tkinter or PyQt.
 License
 This project is licensed under the MIT License. Feel free to use and modify it as needed.
+
+Let me know if you'd like to add or modify anything! 😊
