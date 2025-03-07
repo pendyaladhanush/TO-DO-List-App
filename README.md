@@ -23,7 +23,7 @@ Copy code
 python todo_list.py
 
 
-USUAGE
+USAGE
 Run the Program: Follow the prompts in the terminal to manage your tasks.
 
 Options:
