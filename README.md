@@ -7,17 +7,23 @@ Add Tasks: Add new tasks to your to-do list.
 View Tasks: Display all current tasks.
 Complete Tasks: Mark tasks as completed and remove them from the list.
 Persistent Storage: Tasks are saved to a file (tasks.txt) for future use.
+
+
 Requirements
 Python 3.6 or higher
+
 How to Run
 Clone this repository or download the source code.
 Ensure Python is installed on your system.
 Open a terminal and navigate to the project directory.
 Run the app using the command:
 bash
+
 Copy code
 python todo_list.py
-Usage
+
+
+USUAGE
 Run the Program: Follow the prompts in the terminal to manage your tasks.
 
 Options:
@@ -26,9 +32,12 @@ Options:
 2. Add a task: Allows you to add a new task to the list.
 3. Complete a task: Removes a completed task from the list.
 4. Exit: Saves your tasks and exits the program.
+
 File Details
 todo_list.py: Main program file.
 tasks.txt: File to store tasks persistently.
+
+
 Next Steps
 Future improvements could include:
 
